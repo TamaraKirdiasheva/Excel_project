@@ -46,8 +46,8 @@ This project demonstrates advanced skills in **data analysis** and **visualizati
 
 ### :email: **How to Reach Me**
 If you have any questions or would like to discuss the project further, feel free to reach out:
-- [LinkedIn](in/tamara-astrup-893305256)
-- [Email](mailto:kirdiasheva.tamara@gmail.com)
+- :link: **LinkedIn**: [https://www.linkedin.com/in/tamara-astrup-893305256](https://www.linkedin.com/in/tamara-astrup-893305256)
+- :e-mail: **Email**: [kirdiasheva.tamara@gmail.com](mailto:kirdiasheva.tamara@gmail.com)
 
 ---
 
